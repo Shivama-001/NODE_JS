@@ -1,8 +1,8 @@
 {
-  "name": "backendindex2",
+  "name": "backendindex3",
   "version": "1.0.0",
   "main": "index.js",
-  
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^3.21.2",
-    "nodemon": "^3.1.9"
+    "backendindex3": "file:",
+    "express": "^3.21.2"
   }
 }
